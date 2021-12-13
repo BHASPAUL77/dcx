@@ -1,0 +1,19 @@
+{
+  "name": "dxc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cd index.js",
+  "dependencies": {
+    "inquirer": "^8.1.2",
+    "prompt": "^1.1.0"
+  },
+  "devDependencies": {
+    "jest": "^21.2.1"
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": ""
+}
